@@ -1,0 +1,3 @@
+function solution() {{
+    // merge-intervals
+}}
